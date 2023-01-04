@@ -1,1 +1,2 @@
-# Bash-Script
+👉 #!/bin/bash; it is called shebang
+
